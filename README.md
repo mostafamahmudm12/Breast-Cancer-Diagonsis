@@ -399,4 +399,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ by [Your Name/Team]**
+**Made with ❤️ by Mostafa Mahmoud**
